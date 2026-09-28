@@ -1,0 +1,28 @@
+{
+  "name": "watchface",
+  "author": "KenTriumph",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "KensWatchface",
+    "uuid": "88f08159-244e-48c0-8caf-eea8ddb35960",
+    "projectType": "moddable",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
