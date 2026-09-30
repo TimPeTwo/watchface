@@ -30,3 +30,5 @@ wscript                        Build rules — usually no need to edit
 ## Documentation
 
 Full SDK docs and tutorials: <https://developer.repebble.com>
+
+Documentation for this beginner Tutorial <https://developer.repebble.com/tutorials/alloy-watchface-tutorial/part1/>
